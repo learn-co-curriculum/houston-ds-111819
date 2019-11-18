@@ -7,4 +7,5 @@
 ## Lecture Recordings
 
 | Topic                                                 | Date     |
+-----
 | [What is Data Science?](https://youtu.be/NXfaH2RTTYY) | 11/18/19 |
