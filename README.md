@@ -6,6 +6,7 @@
 
 ## Lecture Recordings
 
-| Topic                                                 | Date     |
-| ----------------------------------------------------- | -------- |
-| [What is Data Science?](https://youtu.be/NXfaH2RTTYY) | 11/18/19 |
+| Topic                                                       | Date     |
+| ----------------------------------------------------------- | -------- |
+| [What is Data Science?](https://youtu.be/NXfaH2RTTYY)       | 11/18/19 |
+| [SQL and Accessing Databases](https://youtu.be/grvXclddclA) | 11/25/19 |
