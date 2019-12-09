@@ -16,3 +16,4 @@
 | Topic - Mod 2                                                                        | Date     |
 | ------------------------------------------------------------------------------------ | -------- |
 | [Combinatorics, Set Notation and Probability (Part 1)](https://youtu.be/6gDlGM_jH2k) | 12/09/19 |
+| [Combinatorics, Set Notation and Probability (Part 2)](https://youtu.be/C0wvSzcpvzE) | 12/09/19 |
