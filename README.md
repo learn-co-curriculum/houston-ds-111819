@@ -6,9 +6,13 @@
 
 ## Lecture Recordings
 
-| Topic                                                       | Date     |
+| Topic - Mod 1                                               | Date     |
 | ----------------------------------------------------------- | -------- |
 | [What is Data Science?](https://youtu.be/NXfaH2RTTYY)       | 11/18/19 |
 | [SQL and Accessing Databases](https://youtu.be/grvXclddclA) | 11/25/19 |
 | [Intro to Power BI](https://youtu.be/lHRDNPHMZ1w)           | 11/26/19 |
 | [Dynamic Web Scraping](https://youtu.be/j2djlIiGfsQ)        | 12/03/19 |
+
+| Topic - Mod 2                                                                        | Date     |
+| ------------------------------------------------------------------------------------ | -------- |
+| [Combinatorics, Set Notation and Probability (Part 1)](https://youtu.be/6gDlGM_jH2k) | 12/09/19 |
