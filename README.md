@@ -19,3 +19,4 @@
 | [Combinatorics, Set Notation and Probability (Part 2)](https://youtu.be/C0wvSzcpvzE) | 12/09/19 |
 | [Statistical Distributions](https://youtu.be/x0XOePv9JeY)                            | 12/10/19 |
 | [Central Limit Theorem](https://youtu.be/3fdBsRRi9c0)                                | 12/10/19 |
+| [Bayes' Theorem](https://youtu.be/mUH9vteDIBQ)                                       | 12/11/19 |
