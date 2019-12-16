@@ -21,3 +21,4 @@
 | [Central Limit Theorem](https://youtu.be/3fdBsRRi9c0)                                | 12/10/19 |
 | [Bayes' Theorem](https://youtu.be/mUH9vteDIBQ)                                       | 12/11/19 |
 | [Naive Bayes Classifiers](https://youtu.be/_mtfZFwyZG8)                              | 12/12/19 |
+| [Introduction to Linear Models](https://youtu.be/0xPfCYYqlpw)                        | 12/16/19 |
