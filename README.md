@@ -22,3 +22,4 @@
 | [Bayes' Theorem](https://youtu.be/mUH9vteDIBQ)                                       | 12/11/19 |
 | [Naive Bayes Classifiers](https://youtu.be/_mtfZFwyZG8)                              | 12/12/19 |
 | [Introduction to Linear Models](https://youtu.be/0xPfCYYqlpw)                        | 12/16/19 |
+| [Linear Regression, Continued](https://youtu.be/pLBxljUaInY)                         | 12/17/19 |
