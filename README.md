@@ -23,3 +23,4 @@
 | [Naive Bayes Classifiers](https://youtu.be/_mtfZFwyZG8)                              | 12/12/19 |
 | [Introduction to Linear Models](https://youtu.be/0xPfCYYqlpw)                        | 12/16/19 |
 | [Linear Regression, Continued](https://youtu.be/pLBxljUaInY)                         | 12/17/19 |
+| [Ridge and LASSO Regression](https://youtu.be/Rm_qYT_IUIQ)                           | 12/18/19 |
