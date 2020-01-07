@@ -25,3 +25,7 @@
 | [Linear Regression, Continued](https://youtu.be/pLBxljUaInY)                         | 12/17/19 |
 | [Ridge and LASSO Regression](https://youtu.be/Rm_qYT_IUIQ)                           | 12/18/19 |
 | [Generalized Linear Models](https://youtu.be/U1hH4Sh7hJc)                            | 12/19/19 |
+
+| Topic - Mod 3                                                 | Date    |
+| ------------------------------------------------------------- | ------- |
+| [Intro to Logistic Regression](https://youtu.be/x2UVG2GcbPc)  | 1/07/20 |
