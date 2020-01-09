@@ -29,3 +29,4 @@
 | Topic - Mod 3                                                 | Date    |
 | ------------------------------------------------------------- | ------- |
 | [Intro to Logistic Regression](https://youtu.be/x2UVG2GcbPc)  | 1/07/20 |
+| [PCA and SVMs](https://youtu.be/zGM4i2SoM-Y)                  | 1/09/20 |
