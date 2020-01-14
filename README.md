@@ -30,3 +30,4 @@
 | ------------------------------------------------------------- | ------- |
 | [Intro to Logistic Regression](https://youtu.be/x2UVG2GcbPc)  | 1/07/20 |
 | [PCA and SVMs](https://youtu.be/zGM4i2SoM-Y)                  | 1/09/20 |
+| [Random Forests](https://youtu.be/ttpcmO7OAtw)                | 1/14/20 |
