@@ -26,8 +26,9 @@
 | [Ridge and LASSO Regression](https://youtu.be/Rm_qYT_IUIQ)                           | 12/18/19 |
 | [Generalized Linear Models](https://youtu.be/U1hH4Sh7hJc)                            | 12/19/19 |
 
-| Topic - Mod 3                                                 | Date    |
-| ------------------------------------------------------------- | ------- |
-| [Intro to Logistic Regression](https://youtu.be/x2UVG2GcbPc)  | 1/07/20 |
-| [PCA and SVMs](https://youtu.be/zGM4i2SoM-Y)                  | 1/09/20 |
-| [Random Forests](https://youtu.be/ttpcmO7OAtw)                | 1/14/20 |
+| Topic - Mod 3                                                   | Date    |
+| --------------------------------------------------------------- | ------- |
+| [Intro to Logistic Regression](https://youtu.be/x2UVG2GcbPc)    | 1/07/20 |
+| [PCA and SVMs](https://youtu.be/zGM4i2SoM-Y)                    | 1/09/20 |
+| [Random Forests](https://youtu.be/ttpcmO7OAtw)                  | 1/14/20 |
+| [Gradient Boosted Trees, in code](https://youtu.be/WhPxpLgPh2E) | 1/15/20 |
