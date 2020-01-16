@@ -32,3 +32,4 @@
 | [PCA and SVMs](https://youtu.be/zGM4i2SoM-Y)                    | 1/09/20 |
 | [Random Forests](https://youtu.be/ttpcmO7OAtw)                  | 1/14/20 |
 | [Gradient Boosted Trees, in code](https://youtu.be/WhPxpLgPh2E) | 1/15/20 |
+| [Clustering and KNN](https://youtu.be/zGAvn8Tp6KE)              | 1/16/20 |
