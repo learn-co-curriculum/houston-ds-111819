@@ -33,3 +33,4 @@
 | [Random Forests](https://youtu.be/ttpcmO7OAtw)                  | 1/14/20 |
 | [Gradient Boosted Trees, in code](https://youtu.be/WhPxpLgPh2E) | 1/15/20 |
 | [Clustering and KNN](https://youtu.be/zGAvn8Tp6KE)              | 1/16/20 |
+| [Hierarchical Clustering](https://youtu.be/bUepXAOUZj8)         | 1/17/20 |
