@@ -38,3 +38,4 @@
 | Topic - Mod 4                                          | Date    |
 | ------------------------------------------------------ | ------- |
 | [Recommendation Systems](https://youtu.be/BQGKb5uQsO0) | 1/27/20 | 
+| [Time Series, Part 1](https://youtu.be/pxsbAYxOgEk)    | 1/28/20 |
