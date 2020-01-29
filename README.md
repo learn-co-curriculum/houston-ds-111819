@@ -35,7 +35,8 @@
 | [Clustering and KNN](https://youtu.be/zGAvn8Tp6KE)              | 1/16/20 |
 | [Hierarchical Clustering](https://youtu.be/bUepXAOUZj8)         | 1/17/20 |
 
-| Topic - Mod 4                                          | Date    |
-| ------------------------------------------------------ | ------- |
-| [Recommendation Systems](https://youtu.be/BQGKb5uQsO0) | 1/27/20 | 
-| [Time Series, Part 1](https://youtu.be/pxsbAYxOgEk)    | 1/28/20 |
+| Topic - Mod 4                                             | Date    |
+| --------------------------------------------------------- | ------- |
+| [Recommendation Systems](https://youtu.be/BQGKb5uQsO0)    | 1/27/20 | 
+| [Time Series, Part 1](https://youtu.be/pxsbAYxOgEk)       | 1/28/20 |
+| [Time Series, Part 2: ARCH](https://youtu.be/zLi5CqUGWf8) | 1/29/20 |
