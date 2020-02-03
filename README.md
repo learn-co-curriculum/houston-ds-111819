@@ -41,3 +41,4 @@
 | [Time Series, Part 1](https://youtu.be/pxsbAYxOgEk)                | 1/28/20 |
 | [Time Series, Part 2: ARCH](https://youtu.be/zLi5CqUGWf8)          | 1/29/20 |
 | [Time Series, Part 3: Markov Models](https://youtu.be/JJk4JXozy9Q) | 1/30/20 |
+| [Introduction to Deep Learning](https://youtu.be/rf4gM_neugU)      | 2/03/20 |
