@@ -44,3 +44,4 @@
 | [Introduction to Deep Learning](https://youtu.be/rf4gM_neugU)      | 2/03/20 |
 | [Multi-Layer Perceptrons](https://youtu.be/9qtAeobEjm0)            | 2/04/20 |
 | [Convolutional Neural Networks](https://youtu.be/-TkD2LfOlUM)      | 2/12/20 |
+| [RNNs and LSTMs](https://youtu.be/W-NVoPZ_lB0)                     | 2/13/20 |
